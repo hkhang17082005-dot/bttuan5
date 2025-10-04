@@ -1,0 +1,10 @@
+C:\Khang\HongHoangKhang_Lab3_BT2\bin\Debug\HongHoangKhang_Lab3_BT2.exe.config
+C:\Khang\HongHoangKhang_Lab3_BT2\bin\Debug\HongHoangKhang_Lab3_BT2.exe
+C:\Khang\HongHoangKhang_Lab3_BT2\bin\Debug\HongHoangKhang_Lab3_BT2.pdb
+C:\Khang\HongHoangKhang_Lab3_BT2\obj\Debug\HongHoangKhang_Lab3_BT2.csproj.AssemblyReference.cache
+C:\Khang\HongHoangKhang_Lab3_BT2\obj\Debug\HongHoangKhang_Lab3_BT2.Form1.resources
+C:\Khang\HongHoangKhang_Lab3_BT2\obj\Debug\HongHoangKhang_Lab3_BT2.Properties.Resources.resources
+C:\Khang\HongHoangKhang_Lab3_BT2\obj\Debug\HongHoangKhang_Lab3_BT2.csproj.GenerateResource.cache
+C:\Khang\HongHoangKhang_Lab3_BT2\obj\Debug\HongHoangKhang_Lab3_BT2.csproj.CoreCompileInputs.cache
+C:\Khang\HongHoangKhang_Lab3_BT2\obj\Debug\HongHoangKhang_Lab3_BT2.exe
+C:\Khang\HongHoangKhang_Lab3_BT2\obj\Debug\HongHoangKhang_Lab3_BT2.pdb
